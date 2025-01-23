@@ -1,2 +1,2 @@
 # DNVP
-De Novo Variants Prediction
+**D**e **N**ovo **V**ariants **P**rediction
